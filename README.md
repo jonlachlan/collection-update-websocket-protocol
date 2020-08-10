@@ -14,7 +14,7 @@ protocol: collection-update
 }]
 ```
 
-`collection-update` is a websocket sub-protocol, i.e., it can be provided to a `Websocket()` constructor as the `protocol`.
+`collection-update` is a websocket sub-protocol, i.e., it can be provided to a `WebSocket()` constructor as the `protocol`.
 
 For example,
 ```
