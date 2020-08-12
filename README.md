@@ -38,7 +38,11 @@ The `operation` will be 'put' or 'delete'.
 The `document` is an object that has a key of the same name as `idField`.
 
 
+# Registry
 
+Registered to the WebSocket Subprotocol Name Registry with the identifier collection-update as The Collection Update Websocket Subprotocol.
+
+https://www.iana.org/assignments/websocket/websocket.xhtml
 
 # Copyright
 (c) 2020 Jon Lachlan
